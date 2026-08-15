@@ -1,0 +1,10 @@
+# Runtime dependencies
+numpy>=1.26
+pandas>=2.1
+yfinance>=0.2.40
+matplotlib>=3.8
+
+# Notebook + testing
+jupyter>=1.0
+ipykernel>=6
+pytest>=8

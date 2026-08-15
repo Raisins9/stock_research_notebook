@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+
+# Cached market data (re-downloadable)
+data/
+
+# Notebook checkpoints / outputs
+.ipynb_checkpoints/
